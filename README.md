@@ -1,2 +1,2 @@
 # Instagram homepage
-I recreated the instagram homepage using HTML5 and CSS3.
+This is my first project using HTML5 and CSS3. I recreated the instagram homepage.
