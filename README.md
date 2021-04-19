@@ -8,4 +8,5 @@ My first project using HTML5 and CSS3. 🙃
 
 I recreated the instagram homepage. 😃📱
 
-![Instagram%20Homepage%20Clone%204ade81a4dd554f938e7479e3d489800f/Untitled.png](Instagram%20Homepage%20Clone%204ade81a4dd554f938e7479e3d489800f/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/75337319/115292344-36812b80-a12c-11eb-8f10-8efd25678564.png)
+
